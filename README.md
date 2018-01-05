@@ -25,5 +25,16 @@ IDEO CoLab Winter Fellowship
   Tips: for inspitation, check out the Open Music Initiative or the Nexar Dashcam
 </p>
 
-<p>
-</p>
+#### Team Members
+
+- Alivia Blount (student fellow UCD - computer science)
+- Jessica Ouyang (student fellow Stanford - product)
+- James Waisley (USA today insurance)
+- P Mitra (Ford Motor Company)
+
+#### References
+
+- [Open Music Inititative](http://open-music.org/about/)
+- [Nexar Dashcam](https://blog.getnexar.com/)
+- [Tom Tom](https://www.tomtom.com/en_us/drive/car/)
+- [A novel approach to real time tire road slip and grip data(https://www.sciencedirect.com/science/article/pii/S1474667016400881)
