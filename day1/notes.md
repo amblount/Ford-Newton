@@ -35,5 +35,22 @@ this could trigger a service request from the OEM enabling a stronger relationsh
 Instead of the OEM having an external service provider tell them when to schedule maintenance after so many miles driven, the OEM has 
 a lot of data on the usage of the car and an analytics team and algorithms with understand performance and can make recommendations
 to the ower of the vehicle about individual part performance and replacement/ function needs.
-Service prodivers and part manufactueres are currenlty montiering part replcement on the blockchain to make sure that parts being
-replced in a vehicle are not faulty parts and that those parts are of quality.
+Service prodivers and part manufactueres are currenlty montiering part replcement on the blockchain to make sure that parts being replced in a vehicle are not faulty parts and that those parts are of quality.
+
+#### Use Case
+
+User Persona:
+
+Name: Jessica
+Age: 36
+Profile: Mother, 6 year old child who goes to school in Berkeley, lives in Oakland while Jessics works in Mountain View. 
+
+We thought through a day in the life of Jessica moving through the shared mobility economy system dna which data is being produced and which data would be useful for certain players in our system as identified in the read me.
+
+Journey:
+
+1. Jessica call an uber with a needed car seat to get from homein Oakland to her childs school in Berkeley. Jessica also needs cargo space in the trunk for her childs science fair project.
+2. Uber from the school to the Caltrain to get to Mountain View
+3. What data is collected on the Caltrain ride
+4. Rent a bike from the Caltrain to the office (hourly rental roundtrip) Ford bikes?
+ 
