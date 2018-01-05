@@ -1,7 +1,7 @@
 # Ford-Newton
 IDEO CoLab Winter Fellowship
 
-## Breif: Markets for Vehicle Data
+## Brief: Markets for Vehicle Data
 
 ##### How could blockchains help us crowdsource real driving data to improve autonomous vehicle systems?
 
