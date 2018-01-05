@@ -30,7 +30,7 @@ IDEO CoLab Winter Fellowship
 - Alivia Blount (student fellow UCD - computer science)
 - Jessica Ouyang (student fellow Stanford - product)
 - James Waisley (USA today insurance)
-- P Mitra (Ford Motor Company)
+- Pramita Mitra (Ford Motor Company)
 
 #### References
 
