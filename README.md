@@ -38,3 +38,7 @@ IDEO CoLab Winter Fellowship
 - [Nexar Dashcam](https://blog.getnexar.com/)
 - [Tom Tom](https://www.tomtom.com/en_us/drive/car/)
 - [A novel approach to real time tire road slip and grip data](https://www.sciencedirect.com/science/article/pii/S1474667016400881)
+- [Ford OpenXC ](http://openxcplatform.com/overview/index.html)
+- [IDEO CoLab Prototyping Tools](https://medium.com/ideo-colab/quick-prototyping-tools-for-emerging-technologies-3fb56f62360a)
+- [Shared Mobility](http://sharedusemobilitycenter.org/what-is-shared-mobility/)
+
